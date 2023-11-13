@@ -1,0 +1,37 @@
+
+
+    a:hover {
+     color: red;
+     background-color: transparent;
+     text-decoration: none;
+    }
+
+    a:active {
+     color: yellow;
+     background-color: transparent;
+     text-decoration: none;
+    }
+
+    a{
+        color: darkolivegreen;
+        text-decoration: none;
+    }
+
+    button{
+        background-color:silver;
+        border-radius: 20%;
+    }
+
+    button:hover{
+        background-color: cyan;
+    }
+
+    p{
+        margin-right: 90px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    #footer{
+        text-align: center;
+    }
